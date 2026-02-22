@@ -1,5 +1,6 @@
 # SCT_WD_1
 A responsive web page with interactive nav bar built using HTML and CSS as part of SkillCraft Technology Web Development Internship – Task 1.
+
 This project is a fully responsive multi-page landing website developed during my internship at SkillCraft Technology. It represents a Campus Café concept and focuses on creating a modern, user-friendly interface with interactive navigation and clean design.
 
 🚀 Features
